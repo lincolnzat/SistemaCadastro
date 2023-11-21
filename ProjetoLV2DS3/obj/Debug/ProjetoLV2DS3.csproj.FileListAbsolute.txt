@@ -1,0 +1,1360 @@
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormMenu.resources
+C:\Users\Aluno\Documents\Visual Studio 2017\Projetos\ProjetoLV2DS3\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroEmpregados.resources
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormMenu.resources
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormRelatorio.resources
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormRelatorio.resources
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Downloads\Sistema de Login 2\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormRelatorio.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 02032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormRelatorio.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Downloads\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 09032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 24032023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\netstandard.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.AppContext.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Collections.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Console.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Data.Common.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Globalization.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Linq.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.Http.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.Ping.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.Requests.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.Security.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.Sockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.ObjectModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Reflection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Resources.Reader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Resources.Writer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.SecureString.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Threading.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Threading.Thread.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Threading.Timer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 28042023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmUsuarios.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\netstandard.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.AppContext.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Collections.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Console.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Data.Common.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Globalization.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Linq.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.Http.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.Ping.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.Requests.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.Security.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.Sockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.ObjectModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Reflection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Resources.Reader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Resources.Writer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.SecureString.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Threading.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Threading.Thread.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Threading.Timer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 18052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\netstandard.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.AppContext.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Collections.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Console.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Data.Common.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Globalization.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Linq.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.Http.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.Ping.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.Requests.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.Security.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.Sockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.ObjectModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Reflection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Resources.Reader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Resources.Writer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.SecureString.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Threading.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Threading.Thread.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Threading.Timer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmUsuarios.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 19052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\netstandard.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.AppContext.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Collections.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Console.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Data.Common.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Globalization.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Linq.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.Http.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.Ping.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.Requests.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.Security.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.Sockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.ObjectModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Reflection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Resources.Reader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Resources.Writer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.SecureString.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Threading.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Threading.Thread.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Threading.Timer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmUsuarios.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 26052023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\netstandard.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.AppContext.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Collections.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Console.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Data.Common.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Globalization.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Linq.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.Http.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.Ping.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.Requests.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.Security.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.Sockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.ObjectModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Reflection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Resources.Reader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Resources.Writer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.SecureString.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Threading.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Threading.Thread.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Threading.Timer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmUsuarios.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 02062023\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\netstandard.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.AppContext.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Collections.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.ComponentModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Console.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Data.Common.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Globalization.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Linq.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.Http.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.Ping.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.Requests.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.Security.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.Sockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.ObjectModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Reflection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Resources.Reader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Resources.Writer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Principal.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.SecureString.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Threading.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Threading.Thread.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Threading.Timer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmUsuarios.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 16062023 2241\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\netstandard.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.AppContext.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Collections.Concurrent.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Collections.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Collections.NonGeneric.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Collections.Specialized.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ComponentModel.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ComponentModel.Primitives.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Console.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Data.Common.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Contracts.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Debug.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Process.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tools.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tracing.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Drawing.Primitives.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Dynamic.Runtime.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Globalization.Calendars.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Globalization.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Globalization.Extensions.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Compression.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.IsolatedStorage.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Pipes.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Linq.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Linq.Expressions.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Linq.Parallel.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Linq.Queryable.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Http.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.NameResolution.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.NetworkInformation.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Ping.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Primitives.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Requests.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Security.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Sockets.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.Client.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ObjectModel.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Reflection.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Reflection.Extensions.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Reflection.Primitives.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Resources.Reader.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Resources.ResourceManager.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Resources.Writer.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Extensions.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Handles.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Numerics.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Claims.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Principal.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.SecureString.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.RegularExpressions.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Overlapped.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Thread.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.ThreadPool.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Timer.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ValueTuple.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.ReaderWriter.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XDocument.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XmlDocument.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XmlSerializer.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Google.Protobuf.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\MySql.Data.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Buffers.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Memory.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Loader.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Json.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Google.Protobuf.pdb
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Google.Protobuf.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Buffers.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Memory.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Json.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe.config
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmEmpregados.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmProdutos.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmUsuarios.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CopyComplete
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+E:\DS\2DS3\DS I\Visual Studio\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\ProjetoLV2DS3.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\netstandard.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.AppContext.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Collections.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ComponentModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Console.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Data.Common.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Globalization.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Linq.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Http.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Ping.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Requests.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Security.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.Sockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ObjectModel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Reflection.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Resources.Reader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Resources.Writer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Principal.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.SecureString.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Thread.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Timer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe.config
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.AdmUsuarios.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.CadastroProdutos.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEmpregados.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.MenuInicial.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.FormEstoque.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.lblWelcome.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.txtConteudo.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.Sobre.resources
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.exe
+C:\Users\Aluno\Desktop\Sistema de Login - 2DS3 - 23062023 2214\ProjetoLV2DS3\obj\Debug\ProjetoLV2DS3.pdb
